@@ -1,0 +1,17 @@
+.box1{
+    background-color: tomato;
+}
+.box2{
+    /*background-color: limegreen:*/
+    background-color: #00ff00;
+}
+.box3{
+    /*background-color: gray;*/
+    background-color: rgb(255, 0, 0);
+}
+.box4{
+    background-color: rebeccapurple;
+}
+.box5{
+    background-color: magenta;
+}
